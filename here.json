@@ -15,6 +15,6 @@
         "name": "Product 3",
         "price": "69.99",
         "description": "Detailed description of product 3.",
-        "images": ["image5.jpg", "image6.jpg"]
+        "images": ["https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true"]
     }
 ]
