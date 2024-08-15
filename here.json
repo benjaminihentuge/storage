@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "name": "Handmade Craft",
+        "description": "A beautifully crafted handmade item made with the finest materials.",
+        "price": 49.99,
+        "image": "https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true",
+        "rating": 4.5,
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "Amazing quality! Highly recommend.",
+                "rating": 5
+            },
+            {
+                "user": "Jane Smith",
+                "comment": "Looks great but slightly smaller than expected.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Artisan Pottery",
+        "description": "Exquisite artisan pottery perfect for home decor.",
+        "price": 79.99,
+        "image": "https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true",
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user": "Alice Johnson",
+                "comment": "Beautiful craftsmanship and quick delivery.",
+                "rating": 5
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "name": "Artisan Pottery",
+        "description": "Exquisite artisan pottery perfect for home decor.",
+        "price": 79.99,
+        "image": "https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true",
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user": "Alice Johnson",
+                "comment": "Beautiful craftsmanship and quick delivery.",
+                "rating": 5
+            }
+        ]
+    }
+
+  
+]
