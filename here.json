@@ -3,18 +3,18 @@
         "name": "Product 1",
         "price": "49.99",
         "description": "Detailed description of product 1.",
-        "images": ["https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true"]
+        "images": ["https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/handmadevase2.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/handmadevase3.png?raw=true"]
     },
     {
         "name": "Product 2",
         "price": "59.99",
         "description": "Detailed description of product 2.",
-        "images": ["https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true"]
+        "images": ["https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenbowl2.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true"]
     },
     {
         "name": "Product 3",
         "price": "69.99",
         "description": "Detailed description of product 3.",
-        "images": ["https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true, https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true"]
+        "images": ["https://github.com/benjaminihentuge/storage/blob/main/woodenplate1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenplate2.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenplate3.png?raw=true"]
     }
 ]
