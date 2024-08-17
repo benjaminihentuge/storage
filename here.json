@@ -9,18 +9,30 @@
         "name": "Ceramic Vase",
         "price": "49.99",
         "description": "The ceramic vase is an elegant piece, standing about 12 inches tall with a slightly tapering cylindrical shape. The vase features a smooth, glossy finish with a deep cobalt blue base color that gradually transitions to a lighter shade near the top. The surface is adorned with intricate hand-painted floral motifs, primarily in white and gold, with delicate vines and blooming flowers that seem to dance around the vase's body. The rim of the vase is gently flared and outlined with a thin gold band, adding a touch of sophistication. The interior of the vase is glazed in a soft cream color, providing a subtle contrast to the vibrant exterior. This vase is both functional and decorative, ideal for holding fresh flowers or standing alone as a statement piece in any room.",
-        "images": ["https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/handmadevase2.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/handmadevase3.png?raw=true"]
+        "images": ["https://github.com/benjaminihentuge/storage/blob/main/handmadevase1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/handmadevase2.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/handmadevase3.png?raw=true"],
+          "reviews": [
+            "Not what I expected.",
+            "Good value for the price."
+        ]
     },
     {
         "name": "Wooden Bowl",
         "price": "59.99",
         "description": "The wooden bowl is a masterful example of artisanal woodworking, carved from a single block of rich walnut wood. It measures approximately 8 inches in diameter and 4 inches in height, with a gently sloping, rounded shape that feels balanced and sturdy in the hands. The interior of the bowl is smoothly finished, showcasing the deep, chocolatey hues of the walnut wood, with its distinctive grain patterns adding a sense of movement and depth. The exterior is equally smooth, with a slightly matte finish that emphasizes the natural beauty of the wood. The rim of the bowl is thick and slightly beveled, providing a strong, durable edge. This bowl is perfect for serving salads, holding snacks, or as a decorative piece on a coffee table or kitchen counter.",
-        "images": ["https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true"]
+        "images": ["https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true"],
+          "reviews": [
+            "Not what I expected.",
+            "Good value for the price."
+        ]
     },
     {
         "name": "Wooden Plate",
         "price": "69.99",
         "description": "The wooden plate is crafted from a single piece of high-quality, sustainably sourced hardwood. Measuring about 10 inches in diameter, the plate has a shallow, concave design with a slight lip around the edge. The natural grain of the wood is beautifully showcased, with rich, warm tones of brown and amber swirling across the surface. The plate has been carefully sanded to a smooth finish and treated with a food-safe oil to enhance the wood's natural luster while protecting it from moisture. The edges of the plate are gently rounded, making it comfortable to hold. This wooden plate is versatile, suitable for serving appetizers, holding fruit, or as a decorative base for candles or other small items.",
-        "images": ["https://github.com/benjaminihentuge/storage/blob/main/woodenplate1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenplate3.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenplate1.png?raw=true"]
+        "images": ["https://github.com/benjaminihentuge/storage/blob/main/woodenplate1.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenplate3.png?raw=true", "https://github.com/benjaminihentuge/storage/blob/main/woodenplate1.png?raw=true"],
+          "reviews": [
+            "Not what I expected.",
+            "Good value for the price."
+        ]
     }
 ]
