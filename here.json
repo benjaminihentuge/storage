@@ -2,15 +2,18 @@
     {
         "name": "Ceramic Plate",
         "price": "10.99",
-        "description": "The ceramic plate is crafted from a single piece of high-quality, sustainably sourced hardwood. Measuring about 10 inches in diameter, the plate has a shallow, concave design with a slight lip around the edge. The natural grain of the wood is beautifully showcased, with rich, warm tones of brown and amber swirling across the surface. The plate has been carefully sanded to a smooth finish and treated with a food-safe oil to enhance the wood's natural luster while protecting it from moisture. The edges of the plate are gently rounded, making it comfortable to hold. This wooden plate is versatile, suitable for serving appetizers, holding fruit, or as a decorative base for candles or other small items.",
+        "description": "This ceramic plate is a versatile and durable addition to any kitchen or dining setting. It features a smooth, glossy finish in a neutral tone, perfect for both casual and formal occasions. The plate is 10 inches in diameter, providing ample space for serving a variety of dishes. It is dishwasher-safe, microwave-safe, and chip-resistant, making it a practical choice for everyday use. The clean lines and minimalist design make it an elegant option for presenting food, whether it's a simple breakfast or an elaborate dinner.",
         "images": [
             "https://github.com/benjaminihentuge/storage/blob/main/pexels-eva-bronzini-6568637_n22.jpg?raw=true",
             "https://github.com/benjaminihentuge/storage/blob/main/pexels-eva-bronzini-6568639n20.jpg?raw=true",
             "https://github.com/benjaminihentuge/storage/blob/main/pexels-eva-bronzini-6568637_n21.jpg?raw=true"
         ],
         "reviews": [
-            "Not what I expected.",
-            "Good value for the price."
+            "The ceramic plate is exactly as described. It's sturdy, well-made, and the perfect size for meals.",
+            "I love the simplicity of this plate. It goes well with any table setting and is easy to clean.",
+            "This plate has quickly become my favorite. It feels solid, and the finish is really nice.",
+            "The color is neutral, which matches everything in my kitchen. Highly recommend for everyday use.",
+            "I was looking for a durable plate that looks good and performs well. This one ticks all the boxes."
         ]
     },
     {
@@ -23,8 +26,11 @@
             "https://github.com/benjaminihentuge/storage/blob/main/handmadevase3.png?raw=true"
         ],
         "reviews": [
-            "Not what I expected.",
-            "Good value for the price."
+            "This vase is a stunning addition to my living room. The hand-painted design is absolutely beautiful.",
+            "The colors are vibrant, and the quality is top-notch. I’m very pleased with this purchase.",
+            "I’ve received so many compliments on this vase. It’s truly a work of art.",
+            "This vase is both functional and decorative. It looks great with flowers or even on its own.",
+            "I was impressed with how well the vase was packaged. It arrived in perfect condition and looks even better in person."
         ]
     },
     {
@@ -37,8 +43,11 @@
             "https://github.com/benjaminihentuge/storage/blob/main/woodenbowl1.png?raw=true"
         ],
         "reviews": [
-            "Not what I expected.",
-            "Good value for the price."
+            "The craftsmanship on this wooden bowl is exceptional. It’s both beautiful and functional.",
+            "I love the natural grain of the wood. It adds a rustic charm to my kitchen.",
+            "This bowl is perfect for serving salads or just as a centerpiece on the dining table.",
+            "It’s a bit pricey, but the quality justifies the cost. I’m very happy with it.",
+            "The bowl feels solid and well-made. I can tell this will last for years."
         ]
     },
     {
@@ -51,8 +60,11 @@
             "https://github.com/benjaminihentuge/storage/blob/main/woodenplate1.png?raw=true"
         ],
         "reviews": [
-            "Not what I expected.",
-            "Good value for the price."
+            "The wood grain on this plate is stunning. It’s almost too beautiful to use!",
+            "This plate is perfect for serving appetizers at parties. It always gets compliments.",
+            "I was impressed with how smooth the finish is. It feels very high quality.",
+            "The size is just right, and the plate feels solid and durable. Worth every penny.",
+            "This wooden plate is both functional and decorative. I use it all the time."
         ]
     }
 ]
